@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=48&duration=3200&pause=900&color=6B6FF0&center=true&vCenter=true&width=620&lines=KAMARU;%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%99%E0%B8%88%E0%B8%A3;under+LikeZara%E2%84%A2" alt="Kamaru" />
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=52&duration=3200&pause=900&color=6B6FF0&center=true&vCenter=true&width=640&lines=LIKEZARA;%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B3%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87;%3C%2Fbuild_anything%3E" alt="LikeZara" />
 
-<sub>★★★★★ &nbsp;·&nbsp; รับทำทุกอย่าง &nbsp;·&nbsp; คุยตรง ราคาโปร่งใส</sub>
+<sub>★★★★★ &nbsp;·&nbsp; ทีมพัฒนาซอฟต์แวร์จากไทย &nbsp;·&nbsp; ส่งงานตรงเวลา ราคาโปร่งใส</sub>
 
 <br/><br/>
 
@@ -18,14 +18,18 @@
 
 ## &nbsp;` ABOUT `
 
-สวัสดีครับ ผมชื่อ **Kamaru** — นักพัฒนาพเนจรจากไทย ทำงานภายใต้แบรนด์ [**LikeZara™**](https://likezara.com)
-ผมไม่ยึดติดกับสายใดสายหนึ่ง ทำในสิ่งที่ตัวเองสนใจเป็นหลัก แต่รับงานทุกประเภทตามที่ผู้ว่าจ้างต้องการ
-พร้อมประเมินว่าทำได้หรือไม่ และเปิดรับอะไรใหม่ ๆ เสมอ
+**LikeZara™** คือแบรนด์พัฒนาซอฟต์แวร์จากไทย [likezara.com](https://likezara.com) —
+รับทำทุกอย่าง ตั้งแต่เว็บไซต์ แอปมือถือ backend ระดับ production ไปจนถึง MCP servers
+และ AI integration ด้วย Claude / Gemini
+
+เราไม่ยึดติดกับ stack ใด stack หนึ่ง ทำในสิ่งที่สนใจเป็นหลัก
+แต่รับงานทุกประเภทที่ผู้ว่าจ้างต้องการ พร้อมประเมินให้ฟรีก่อนทุกครั้ง
+ถนัดก็รับ ไม่ถนัดบอกตรง ไม่รับแบบสุ่มสี่สุ่มห้า
 
 - **ช่วงนี้:** หมกมุ่นอยู่กับ MCP servers และ ecosystem ของ Claude
-- **ประจำ:** หมุนเวียนระหว่าง Next.js, Flutter, Python ตามที่งานเรียกร้อง
+- **ประจำ:** หมุนเวียนระหว่าง Next.js, Flutter, Python ตามงานที่เข้ามา
 - **รับทำ:** Web · Mobile · Backend · AI/MCP · Infra · Consulting
-- **ติดต่อ:** `k.kamarux@gmail.com` — ประเมินงานให้ฟรี ภายใน 24 ชั่วโมง
+- **ติดต่อ:** `k.kamarux@gmail.com` — ประเมินงานให้ฟรีภายใน 24 ชั่วโมง
 
 <br/>
 
@@ -73,7 +77,7 @@ MCP server สำหรับรัน `sudo` commands พร้อม encrypted
 
 `MCP · DESKTOP`
 
-MCP server สำหรับถ่ายภาพหน้าจอ Linux/Wayland ผ่าน `grim` + `slurp` ให้ Claude เห็นหน้าจอจริง
+MCP server ถ่ายภาพหน้าจอ Linux/Wayland ผ่าน `grim` + `slurp` ให้ Claude เห็นหน้าจอจริง
 
 <kbd>Python</kbd> <kbd>MCP</kbd> <kbd>Wayland</kbd>
 
